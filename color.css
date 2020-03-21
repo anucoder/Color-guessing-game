@@ -1,0 +1,32 @@
+body{
+background-color:#232323;
+}
+
+.square
+{
+  width :25%;
+  background-color: red;
+  padding-bottom: 30%;
+  float:left;
+  margin: 1.5%;
+
+}
+h1
+{
+  color: white;
+  text-align: center;
+}
+
+p{
+  color:white;
+  text-align: center;
+}
+
+.container
+{
+  align-items: center;
+  margin-left:300px;
+  margin-right:200px;
+  padding-left:50px;
+  padding-right:50px;
+}
